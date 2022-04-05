@@ -11,9 +11,10 @@ menu > a > li{
     display: inline;
 }
 
-  header {
+header {
     position: sticky;
     position: -webkit-sticky;
     top: 0px ;
     background-color: rgb(0, 0, 0);
   }
+#menu{display:none ;}
