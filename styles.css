@@ -4,3 +4,10 @@ h2{color:rgb(155, 95, 95)}
 img{width: 500px;}
 
 
+menu{
+    list-style-type: none;
+  }
+  menu > a > li{
+    display: inline;
+  }
+  
