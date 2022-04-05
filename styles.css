@@ -7,7 +7,7 @@ img{width: 500px;}
 menu{
     list-style-type: none;
   }
-  menu > a > li{
+menu > a > li{
     display: inline;
   }
 
@@ -17,4 +17,3 @@ menu{
     top: 0px ;
     background-color: green;
   }
-  
