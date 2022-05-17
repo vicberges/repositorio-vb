@@ -2,7 +2,8 @@ BODY{background-color: #f99271;}
 h1{color:rgb(40, 10, 68)}
 h2{color:rgb(155, 95, 95)}
 img{width: 500px;}
-
+h3{font-size: 2rem;}
+desc{text-align: center; background-color: black; padding: 80px; margin: 0px;}
 
 menu{
     list-style-type: none;
