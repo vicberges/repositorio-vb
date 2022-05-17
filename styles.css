@@ -2,7 +2,15 @@ BODY{background-color: #f99271;}
 h1{color:rgb(40, 10, 68)}
 h2{color:rgb(155, 95, 95)}
 img{width: 500px;}
-h3{font-size: 2rem;color:white}
+h3{
+    font-size: 2rem;
+    color:white;
+    display: block;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 desc{
     text-align: center; 
     background-color: black; 
