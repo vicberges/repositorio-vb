@@ -1,7 +1,11 @@
 BODY{background-color: #f99271;}
 h1{color:rgb(40, 10, 68)}
 h2{color:rgb(155, 95, 95)}
-img1{width: 500px; top: 40px;}
+.img1{width: 375px;height:375px;}
+
+
+
+
 h3{
     font-size: 2rem;
     color:white;
