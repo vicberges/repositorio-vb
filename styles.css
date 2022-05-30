@@ -35,12 +35,8 @@ header {
 #logo-header{
     width: 50px 
 }
-
-article {
-    position:absolute;
-  margin-top:70px;
-  margin-right:200px;
-}
+.foto{float: left;}
+#text1{text-align: right;}
 
 .main-a {
     background: Black;
