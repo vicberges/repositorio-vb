@@ -35,3 +35,14 @@ header {
 #logo-header{
     width: 50px 
 }
+
+article {
+    position:absolute;
+  margin-top:70px;
+  margin-right:200px;
+}
+
+.main-a {
+    background: Black;
+  color:white;
+}
