@@ -1,9 +1,9 @@
 BODY{background-color: #f99271;}
 h1{color:rgb(40, 10, 68)}
 h2{color:rgb(155, 95, 95)}
-.img1{width: 30%;height: 35%; float: left; margin-left: 0%;}
+.img1{width: 35%;height: 40%; float: right;}
 .img2{width: 35%;height: 40%; float: right;}
-.img3{width: 25%;height: 55%; float: right;margin-right: 0%;}
+.img3{width: 25%;height: 55%; float: right;}
 
 
 
