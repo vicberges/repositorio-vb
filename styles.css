@@ -35,6 +35,6 @@ header {
 #logo-header{
     width: 50px 
 }
-#foto{float: left;}
+#foto{float: left; width: 400px;} 
 
 #cuadrito{background-color: black; color: white; height: 500px;}
