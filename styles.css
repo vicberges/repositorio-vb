@@ -58,7 +58,9 @@ header {
   }
   
   
-  gy
+  * {
+    box-sizing: border-box;
+  }
   
   .card {
     float: left;
