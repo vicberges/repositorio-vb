@@ -55,7 +55,7 @@ header {
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    width: 24%;
+    width: 50%;
     padding: 3px;
   }
   
@@ -74,7 +74,7 @@ header {
   
   .card {
     float: left;
-    width: 25%;
+    width: 50%;
     padding: 5px;
   }
   
