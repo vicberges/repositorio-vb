@@ -75,7 +75,7 @@ header {
   .card {
     float: left;
     width: 50%;
-    padding: 5px;
+    padding: 50px;
   }
   
   /* Clearfix (clear floats) */
