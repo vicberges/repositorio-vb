@@ -58,8 +58,7 @@ header {
   flex-wrap: wrap;
   -ms-flex-align: center;
   align-items: center;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
+  -ms-flex-pack:center;
   padding: 0.5rem 1rem;
   background-color: rgba(28, 29, 29, 0.944);
   justify-content: center;
