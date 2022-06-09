@@ -79,9 +79,9 @@ header {
 
 
   div.polaroid {
-    width: 5%;
+    width: 25%;
     background-color:black;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     text-align: center;
     align-items: center;
   }
