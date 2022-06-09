@@ -7,8 +7,8 @@ h2{color:rgb(155, 95, 95)}
 .btn{position: relative;}
 
 #cuadrito{width: 100%;height: 1%;}
-#text1{font-size: 300%;text-align: center;font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";font-style: italic;font-weight: bolder;margin-bottom: 2%;color: white;}
-#text2{font-size: 250%; text-align: center;font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" ;font-style: italic;font-weight: bolder;margin-bottom: 1%; color: white;}
+#text1{font-size: 300%;text-align: center;font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";font-style: italic;font-weight: bolder;margin-bottom: 2%;color:#f99271;}
+#text2{font-size: 250%; text-align: center;font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" ;font-style: italic;font-weight: bolder;margin-bottom: 1%; color:#f99271;}
 
 #mates{width: 10%;height: 10%;}
 
@@ -46,9 +46,9 @@ header {
     width: 50px 
 }
 #foto{float: left; width: 100px;} 
-#cuadrito{background-color: black; color: white; height: 2000px;}
+#cuadrito{background-color: black; color: white; height: 300px;}
 
-#pedi{font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"; font-size:250% ; text-align: center;padding: 20px;color: white;}
+#pedi{font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"; font-size:200% ; text-align: center;padding: 20px;color:#f99271;}
 
 .navbar {
   position: relative;
