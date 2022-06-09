@@ -96,5 +96,6 @@ header {
   
   div.container {
     text-align: center;
+    align-items: center;
     padding: 10px 20px;
   }
