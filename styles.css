@@ -46,7 +46,7 @@ header {
     width: 50px 
 }
 #foto{float: left; width: 100px;} 
-#cuadrito{background-color: black; color: white; height: 200px;}
+#cuadrito{background-color: black; color: white; height: 2000px;}
 
 #pedi{font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"; text-align: center;padding: 20px;color: white;}
 
