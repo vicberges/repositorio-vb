@@ -21,7 +21,7 @@ h3{
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
-descrip{
+#descrip{
     text-align: center; 
     background-color: black; 
     padding: 80px; 
@@ -50,7 +50,7 @@ header {
 
 #pedi{font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"; font-size:200% ; text-align: center;padding: 20px;color:#f99271;}
 
-.navbar {
+.topnav {
   position: relative;
   display: -ms-flexbox;
   display: flex;
