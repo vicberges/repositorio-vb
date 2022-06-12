@@ -98,7 +98,9 @@ header {
     margin-bottom: 5px;
     text-align: center;
     align-items: center;
+    position: relative;
   }
+  
   .img-magnifier-glass {
     position: absolute;
     border: 3px solid #000;
