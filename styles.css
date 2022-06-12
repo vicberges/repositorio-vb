@@ -92,28 +92,14 @@ header {
   }
 
 
-  div.img-magnifier-container {
+  div.polaroid {
     width: 24.8%;
     background-color:black;
     margin-bottom: 5px;
     text-align: center;
     align-items: center;
   }
-  * {box-sizing: border-box;}
 
-  .img-magnifier-container {
-    position: relative;
-  }
-
-  .img-magnifier-glass {
-    position: absolute;
-    border: 3px solid #000;
-    border-radius: 50%;
-    cursor: none;
-    /*Set the size of the magnifier glass:*/
-    width: 100px;
-    height: 100px;
-  }
   
   div.container {
     text-align: center;
