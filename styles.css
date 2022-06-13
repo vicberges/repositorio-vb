@@ -93,11 +93,12 @@ header {
 
 
   #carouselExampleIndicators {
-    width: 24.8%;
+    width: 50%;
     background-color:black;
     margin-bottom: 5px;
     text-align: center;
-    align-items: center;
+    align-items: center !important;
+
   }
 
   
