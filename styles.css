@@ -92,7 +92,7 @@ header {
   }
 
 
-  div.carouselExampleIndicators {
+  #carouselExampleIndicators {
     width: 24.8%;
     background-color:black;
     margin-bottom: 5px;
