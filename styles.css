@@ -27,7 +27,7 @@ h3{
     padding: 80px; 
     margin: 100px;
 }
-.row{margin-top: 5%;}
+.row{margin-top: 5%; margin-bottom: 5%;}
 
 menu{
     list-style-type: none;
