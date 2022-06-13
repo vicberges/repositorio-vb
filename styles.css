@@ -97,7 +97,7 @@ header {
     background-color:black;
     margin-bottom: 5px;
     text-align: center;
-    align-items: center !important;
+    align-items: center;
     margin-left: 30%;
 
   }
