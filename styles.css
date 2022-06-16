@@ -45,11 +45,13 @@ header {
 #foto{float: left; width: 100px;} 
 #cuadrito{background-color: black; color: white; height: 200px; margin-bottom: 0px; width: 100%;}
 #cuadrito2{background-color: black; color: white; height: 100px; margin-bottom: 0px; width: 100%;}
-#productos{width: 40%; text-align: center;margin-left: 30%;}
+#productos{width: 40%;height: 60%; text-align: center;margin-left: 30%;}
 #icalculadora{ text-align: center; margin-top: 60%;}
 #carrito{color: white;}
 #cuadrito3{background-color: black; color: #f99271; height: 100px; margin-bottom: 0px; width: 100%;}
 #forms{ margin-left: 10%; margin-right: 10%;}
+.card-img-top{width: 100%;}
+
 
 #pedi{font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"; font-size:180% ; text-align: center;padding: 20px;color:#f99271;}
  
