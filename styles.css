@@ -59,6 +59,8 @@ header {
 #WhatsApp{width: 2%; align-items: center;}
 
 
+.card-img-top{width:30%}
+
 .topnav {
   position: relative;
   display: -ms-flexbox;
