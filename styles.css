@@ -73,7 +73,7 @@ h5{width:80%}
   justify-content: space-between;
   padding: 0.5rem 1rem;
 }
-#forms{text-align: center;}
+#forms{text-align: center;margin-bottom: 5%;}
 #valorProducto{display:none!important; text-align: center;}
 #listaProductos{display:none!important;text-align: center;}
   .container {
